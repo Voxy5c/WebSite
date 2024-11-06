@@ -1,0 +1,80 @@
+body {
+    background-color: lightgrey;
+    color: blue;
+  }
+  
+  h1 {
+    box-shadow: salmon;
+    text-shadow: 4cm;
+    scrollbar-darkshadow-color: burlywood;
+    text-align: center;
+    background-color: black;
+    color: white;
+  }
+  
+  div {
+    background-color: blue;
+    color: white;
+  }
+
+  p {
+    text-align: center;
+    padding-top: 24px;
+    font-size: 24px;
+  }
+
+  #s {
+    font-size: 32px; 
+
+  }
+  #ssr {
+    color: snow;
+  }
+  li {
+   color: antiquewhite;
+  size: 12px;
+  }
+  ol {
+    size: 18px;
+  }
+  .PodNaslov {
+    background-color: rgb(0, 0, 0);
+    color: antiquewhite;
+  }
+  table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px 0;
+  }
+  th {
+    border: 1px;
+    padding: 8px;
+    text-align: left;
+  }
+  td {
+    border: 1px;
+    padding: 8px;
+    text-align: left;
+  }
+  caption {
+font-weight: bold;
+margin-bottom: 10px;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .column {
+    float: left;
+   width: 33.33%;
+   padding: 5px;  
+  }
+  .SpecialImage {
+    height: 350px;
+    width: 200px;
+  }
+  .body {
+    background-color:rgba(0, 0, 0, 0.75);
+  }
+  
