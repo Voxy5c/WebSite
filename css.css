@@ -1,0 +1,32 @@
+body {
+    background-color: lightgrey;
+    color: blue;
+  }
+  
+  h1 {
+    box-shadow: salmon;
+    text-shadow: 4cm;
+    scrollbar-darkshadow-color: burlywood;
+    text-align: center;
+    background-color: black;
+    color: white;
+  }
+  
+  div {
+    background-color: blue;
+    color: white;
+  }
+
+  p {
+    text-align: center;
+    padding-top: 24px;
+    font-size: 24px;
+  }
+
+  #s {
+    font-size: 32px; 
+
+  }
+  #ssr {
+    color: snow;
+  }
