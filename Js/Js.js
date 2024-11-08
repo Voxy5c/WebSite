@@ -1,11 +1,11 @@
 function Home() {
-    window.location.href = 'index.html';
+    window.location.href = '/WebSite/HTML/index.html';
 }
 function Login() {
-    window.location.href = 'Login.html'
+    window.location.href = '/WebSite/HTML/Login.html'
 }
 function Sign_Up() {
-    window.location.href = 'Sign_Up.html'
+    window.location.href = '/WebSite/HTML/Sign_Up.html'
 }
 function myf() {
     window.open("https://youtube.com/@Voxy72"); 
